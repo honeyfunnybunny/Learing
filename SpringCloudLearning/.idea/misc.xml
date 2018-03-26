@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcloudbus/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudbus/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudbus/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/firstspringcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/firstspringcloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/firstspringcloud/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfig/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfig/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfig/config-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

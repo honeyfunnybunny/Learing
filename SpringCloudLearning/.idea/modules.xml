@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudLearning.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudbus/config-client/config-client.iml" filepath="$PROJECT_DIR$/springcloudbus/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfig/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/springcloudconfig/config-client/config-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudbus/config-server/config-server.iml" filepath="$PROJECT_DIR$/springcloudbus/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfig/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/springcloudconfig/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstspringcloud/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/firstspringcloud/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-client/eureka-client (1).iml" filepath="$PROJECT_DIR$/zuul/eureka-client/eureka-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudbus/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springcloudbus/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfig/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/springcloudconfig/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstspringcloud/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/firstspringcloud/eureka-server/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/eurekaserver (1) (com.dongyiding).iml" filepath="$PROJECT_DIR$/zuul/eureka-server/eurekaserver (1) (com.dongyiding).iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstspringcloud/first-springcloud.iml" filepath="$PROJECT_DIR$/firstspringcloud/first-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/zuul/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/zuul/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
